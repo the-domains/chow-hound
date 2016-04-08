@@ -1,0 +1,28 @@
+name: Chow Hound
+favicon: null
+layout_spectrum: 0.7552501445170492
+typography_spectrum: 0.3540706867352128
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9986850991845131
+  lightness: 0.16230791783891618
+  saturation: 0.6832905989140272
+  rhythmicContrast: 0.7376470810268074
+purpose: []
